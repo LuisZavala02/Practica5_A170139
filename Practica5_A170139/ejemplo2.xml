@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:C:\Users\Administrator\Desktop\Practica5_A170139/ejemplo2.xsl"?>
+<carros>
+<autos>
+  <nombre>Mercedes benz</nombre>
+  <año>2019</año>
+  <cuantos>8</cuantos>
+  <distancia>20000 aprox</distancia>
+</autos>
+<autos>
+  <nombre>Chevrolet</nombre>
+  <año>2021</año>
+  <cuantos>19</cuantos>
+  <distancia>40000 aprox</distancia>
+</autos>
+<autos>
+  <nombre>Nissan</nombre>
+  <año>2003</año>
+  <cuantos>6</cuantos>
+  <distancia>80000 aprox</distancia>
+</autos>
+<autos>
+  <nombre>Ferrari</nombre>
+  <año>2020</año>
+  <cuantos>2</cuantos>
+  <distancia>32000 aprox</distancia>
+</autos>
+<autos>
+  <nombre>Volkswagen</nombre>
+  <año>2010</año>
+  <cuantos>25</cuantos>
+  <distancia>69000 aprox</distancia>
+</autos>
+<autos>
+  <nombre>Audi</nombre>
+  <año>2021</año>
+  <cuantos>5</cuantos>
+  <distancia>24000 aprox</distancia>
+</autos>
+</carros>
+
